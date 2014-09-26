@@ -1,0 +1,8 @@
+{
+  "name": "loopback-manager",
+  "private": true,
+  "dependencies": {
+    "jquery": "~1.11.1",
+    "handlebars": "~2.0.0"
+  }
+}
